@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdata-unburied", # Replace with your own username
-    version="0.0.3",
+    version="0.1.1",
     author="unburied",
     author_email="davi86m@gmail.com",
     description="Package to display model interpretation plots",

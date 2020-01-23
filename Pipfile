@@ -9,6 +9,7 @@ twine = "*"
 [packages]
 eli5 = "*"
 41f562d = {path = "./PDPbox"}
+ipython = "*"
 
 [requires]
 python_version = "3.7"
